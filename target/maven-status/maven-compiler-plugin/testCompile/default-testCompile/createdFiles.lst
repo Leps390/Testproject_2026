@@ -1,0 +1,4 @@
+testscripts\DataProvider.class
+testscripts\Priority.class
+testscripts\SoftAssert.class
+testscripts\HardAssert.class
